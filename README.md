@@ -2,6 +2,8 @@
 
 https://steflan-security.com/linux-privilege-escalation-checklist/
 
+https://gtfobins.github.io/
+
 which awk perl python ruby gcc cc vi vim nmap find netcat nc wget tftp ftp tmux screen nmap 2>/dev/null
 
 sudo -l
